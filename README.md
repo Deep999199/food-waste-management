@@ -30,3 +30,4 @@ The Food Waste Management application is a decentralized platform that allows us
 1. Clone the repository:
    ```bash
    git clone https://github.com/Deep999199/food-waste-management.git
+"# Project Title" 
